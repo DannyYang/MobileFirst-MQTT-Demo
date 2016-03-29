@@ -1,0 +1,16 @@
+
+*.svn-base
+
+*.war
+
+bin/*
+
+*.wlapp
+
+*.db
+
+apps/demo/android/native/assets/wlclient.properties
+
+apps/demo/android/native/bin/*
+
+apps/demo/iphone/native/MobilePortalDemoIphone.xcodeproj/project.xcworkspace/xcuserdata/*
